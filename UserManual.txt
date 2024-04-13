@@ -1,0 +1,17 @@
+User Manual for TicTacToe
+
+- How to play - 
+1. For player 1, open a terminal/command windows.
+2. Run TicTacToe.java on one window.
+3. For the IP, enter "localhost".
+4. For the port, input an available port number. If the port entered is unavailable,
+   it will ask for a different number. A server should be created and player 1 should
+   see the a TicTacToe board with the message "Waiting for another player".
+5. For player 2, open a terminal/command window.
+6. Run TicTacToe.java in that window.
+7. If player 2 is playing on the same system as player 1, the IP entered can be "localhost"
+   or the IP of the computer. If player 2 is on a different system than player 1, the IP
+   entered should be the IP of the system of player 1.
+8. For the port, input the same port that player 1 chose. 
+9. Now the two can play TicTacToe together.
+10. To play again, restart the code.
